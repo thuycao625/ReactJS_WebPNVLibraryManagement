@@ -1,0 +1,108 @@
+#page-wrapper {
+  font-size: 15px !important;
+}
+.container-fluid {
+  margin-top: 50;
+}
+
+#buttonAdd {
+  margin-right: 200px;
+  float: right;
+  height: 40px;
+  width: 60px;
+  font-size: 15px;
+}
+
+.containerTable {
+  height: 1000px;
+  margin-top: 50px;
+}
+.containerTable .table {
+  width: 70%;
+  margin-left: 100px;
+}
+
+.thead {
+  background: #85b4d0;
+}
+
+.formAdd {
+  width: 70%;
+  margin-left: 200px;
+}
+.formAdd .form-group input {
+  height: 50px;
+  font-size: 15px;
+}
+
+.formAdd button {
+  height: 40px;
+  width: 60px;
+}
+
+.formAdd .form-group select {
+  height: 50px;
+  font-size: 15px;
+}
+.form-group label {
+  font-size: 20px;
+  opacity: 0.8;
+}
+
+.form-group input {
+  font-size: 20px;
+}
+
+.form-group select {
+  font-size: 20px;
+}
+
+.booking {
+  padding-left: 220px;
+}
+
+.form-group input[name="search"] {
+  margin: 40px;
+}
+.left-show {
+  border-right: 1px solid black;
+}
+.done-choose {
+  height: 23px;
+}
+.list-choose {
+  padding-left: 20px;
+}
+
+.top-left-part .logo {
+  font-size: 33px;
+  padding-left: 12px;
+  font-family: ".VnShelley Allegro";
+  color: #c8d1d6;
+}
+.link {
+  color: #797979;
+  display: flex;
+}
+
+.link a {
+  color: #797979;
+  margin-top: 2px;
+}
+
+/* .btn-danger {
+  background: #85b4d0 !important;
+  border-color: #85b4d0 !important;
+} */
+
+.buttonDF {
+  background: #85b4d0 !important;
+  border: 1px solid #85b4d0 !important;
+  width: 50px !important;
+  height: 35px !important;
+  text-align: center !important;
+}
+
+.label-danger {
+  width: 200px !important;
+}

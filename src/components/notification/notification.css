@@ -1,0 +1,34 @@
+.notification {
+  border: 1px solid #28a745;
+  width: 265px;
+  border-radius: 5px;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  background-color: #fff;
+  z-index: 2;
+}
+
+.notification-header {
+  display: flex;
+}
+
+.notification-header img {
+  width: 36px;
+  margin: 2px 5px;
+}
+
+.notification-header p {
+  color: #28a745;
+  margin: 8px;
+}
+
+.notification-desc {
+  margin-left: 53px;
+  padding-bottom: 4px;
+}
+
+.notification-close {
+  position: absolute;
+  right: 0;
+}
